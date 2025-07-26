@@ -15,3 +15,5 @@ A simple Python script for encrypting and decrypting files using AES encryption 
 Install dependencies:
 ```bash
 pip install pycryptodome
+
+
